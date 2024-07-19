@@ -6,6 +6,7 @@ body {
     color: #333333;
 }
 
+
 .hero5{
   width: 90%;
   height: 100vh;
@@ -53,7 +54,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-  color: #0ef;
+  color: rgb(0, 255, 119);
 }
 
 nav ul li a span{
@@ -63,7 +64,7 @@ nav ul li a span{
   width: 100%;
   height: 100%;
   z-index: -1;
-  border-bottom: 4px solid #0ef;
+  border-bottom: 4px solid rgb(0, 255, 119);
   border-radius: 15px;
   transform: scale(0) translateY(50px);
   opacity: 0;
@@ -130,8 +131,6 @@ nav ul li a:hover span{
     height: 100%;
   }
 }
-
-
 .home-button {
     background-color: #1a717c;
     color: #FFFFFF;
